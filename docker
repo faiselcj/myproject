@@ -1,2 +1,103 @@
 # Docker topics
 
+🔹 Core Docker Basics
+
+Introduction to Docker
+
+Understanding Containerization
+
+Docker Architecture (Client–Server Model)
+
+Images vs Containers
+
+Docker Installation & Setup
+
+🔹 Docker Images
+
+Creating Docker Images
+
+Dockerfile Explained (FROM, RUN, CMD, ENTRYPOINT…)
+
+Image Layers & Caching
+
+Managing Images (pull, push, tag, prune)
+
+🔹 Docker Containers
+
+Running & Managing Containers
+
+Container Lifecycle (start, stop, restart, rm)
+
+Executing Commands Inside Containers
+
+Container Logs & Debugging
+
+🔹 Networking in Docker
+
+Docker Network Types (bridge, host, none)
+
+Custom Networks
+
+Container-to-Container Communication
+
+Port Mapping & Exposure
+
+🔹 Storage in Docker
+
+Volumes (named & anonymous)
+
+Bind Mounts
+
+Persistent Storage Best Practices
+
+🔹 Docker Compose
+
+Introduction to Docker Compose
+
+docker-compose.yml Structure
+
+Multi-Container Applications
+
+Environment Variables & Overrides
+
+Compose Networking & Volumes
+
+🔹 Docker Registry
+
+Docker Hub Basics
+
+Private Docker Registry
+
+Pushing & Pulling Images
+
+Image Versioning & Tagging Strategy
+
+🔹 Docker in CI/CD
+
+Using Docker in Jenkins
+
+Docker in GitHub Actions
+
+Building & Publishing Images Automatically
+
+🔹 Advanced Docker
+
+Security Best Practices
+
+Docker Swarm (Basics of Orchestration)
+
+Resource Limits (CPU/MEM)
+
+Healthchecks
+
+Multi-stage Builds
+
+🔹 Troubleshooting & Maintenance
+
+Cleaning Unused Docker Resources
+
+Docker System Prune
+
+Debugging Containers
+
+Common Docker Errors & Fixes
